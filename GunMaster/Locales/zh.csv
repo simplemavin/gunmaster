@@ -60,3 +60,7 @@ Option_BackupSaveSuccess,备份创建成功
 Option_BackupSaveFailed,备份创建失败
 Option_NoBackupFiles,没有可用的备份文件
 Option_BackupMaintenance,维护
+Option_IconDisplayMode,经验值图标显示
+Option_IconDisplayMode_Disabled,禁用
+Option_IconDisplayMode_Right,启用（右侧）
+Option_IconDisplayMode_Left,启用（左侧）

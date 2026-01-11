@@ -60,3 +60,7 @@ Option_BackupSaveSuccess,Backup created successfully
 Option_BackupSaveFailed,Failed to create backup
 Option_NoBackupFiles,No backup files available
 Option_BackupMaintenance,Maintenance
+Option_IconDisplayMode,Experience Icon Display
+Option_IconDisplayMode_Disabled,Disabled
+Option_IconDisplayMode_Right,Enabled (Right)
+Option_IconDisplayMode_Left,Enabled (Left)

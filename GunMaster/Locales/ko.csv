@@ -60,3 +60,7 @@ Option_BackupSaveSuccess,백업 생성 완료
 Option_BackupSaveFailed,백업 생성 실패
 Option_NoBackupFiles,백업 파일이 없습니다
 Option_BackupMaintenance,메인턴스
+Option_IconDisplayMode,경험치 아이콘 표시
+Option_IconDisplayMode_Disabled,비활성화
+Option_IconDisplayMode_Right,활성화(오른쪽)
+Option_IconDisplayMode_Left,활성화(왼쪽)

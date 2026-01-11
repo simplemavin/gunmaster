@@ -60,3 +60,7 @@ Option_BackupSaveSuccess,備份建立成功
 Option_BackupSaveFailed,備份建立失敗
 Option_NoBackupFiles,沒有可用的備份檔案
 Option_BackupMaintenance,維護
+Option_IconDisplayMode,經驗值圖示顯示
+Option_IconDisplayMode_Disabled,停用
+Option_IconDisplayMode_Right,啟用（右側）
+Option_IconDisplayMode_Left,啟用（左側）

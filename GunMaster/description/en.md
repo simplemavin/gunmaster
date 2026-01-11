@@ -66,6 +66,7 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 - **Enhancement Multiplier**: Set the multiplier applied to stat enhancements. (0.1x~3.0x)
   - Applies to both auto enhancement mode and manual distribution mode.
 - **Experience Gain Multiplier**: Set the multiplier applied to experience gain. (0.1x~3.0x)
+- **Experience Icon Display**: Display the icon of the currently equipped weapon next to the health bar and visually see the experience fill up. (Disabled/Enabled (Right-Left))
 - **Backup File List**: View the list of saved backup files. The most recent backup file is selected by default.
 - **Load Backup File**: Select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained.
 - **Save and Create Backup**: Save current game data and create a backup file. Backup files are automatically created when leaving the base, when the game exits, or when manually clicking the save button.
@@ -83,6 +84,9 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 - **Data Loss Issue Due to Version Upgrade**: When upgrading from version 1.2.3 to 1.2.4, we decided not to maintain compatibility with existing data. We apologize for any inconvenience. To address initialization issues, all existing data has been reset.
 
 ## 📋 Patch Notes
+
+### v1.2.8
+- **Experience Icon Display Feature Added**
 
 ### v1.2.6
 - **Movement Speed Stat Enhancement Feature Added**
