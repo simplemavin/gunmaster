@@ -1,0 +1,28 @@
+# GitHub Token (환경 변수로 관리)
+# GITHUB_TOKEN은 환경 변수로 설정되어 있으며 .gitignore에 명시적으로 포함하지 않음
+
+# 로컬 설정 파일
+.git/config.local
+*.local
+
+# 자격 증명 저장 파일 (사용자 홈 디렉토리에 저장됨)
+# %USERPROFILE%\.git-credentials
+
+# 환경 변수 파일 (혹시 있을 경우)
+.env
+.env.local
+
+# 스크립트 파일 (로컬에서만 사용)
+setup-credentials.ps1
+setup-credentials.bat
+git-credential-helper.ps1
+git-credential-helper.bat
+set-credential.ps1
+
+# IDE 설정
+.vscode/
+.idea/
+
+# OS 파일
+.DS_Store
+Thumbs.db
