@@ -1,0 +1,62 @@
+proficiency_button_text,熟练度
+GunMaster_ModOptionTitle,GunMaster
+proficiency_stat_window_title,熟练度属性分配
+proficiency_points_label,点数: {0}
+proficiency_manual_mode,手动分配
+proficiency_auto_mode,自动强化
+proficiency_total_exp,总经验值: {0}
+proficiency_exp_to_next_level,距离下一级: {0}
+proficiency_no_stats_available,没有可用属性。
+proficiency_reset_button,重置
+proficiency_close_button1,关闭窗口
+proficiency_reset_tooltip_title,重置
+proficiency_reset_tooltip_description,重置所有强化数值和数量。\n所有已投资点数将被退还。
+proficiency_reset_tooltip_level,等级: {0}
+proficiency_reset_tooltip_cost_per_point,每点成本: {0}元
+proficiency_reset_tooltip_invested_points,已投资点数: {0}
+proficiency_reset_tooltip_total_cost,总重置成本: {0}元
+proficiency_reset_tooltip_no_points,(未投资点数)
+proficiency_reset_button_cost, ({0}元)
+proficiency_reset_button_not_enough_money, [资金不足]
+proficiency_notification_item_not_found,找不到物品。
+proficiency_notification_auto_mode_cannot_invest,自动分配模式下无法手动投资。请在选项中切换到手动分配模式。
+proficiency_notification_stat_upgrade_success,属性强化完成！(消耗点数: {0})
+proficiency_notification_stat_upgrade_failed,属性强化失败。点数不足。
+proficiency_notification_reset_success,重置完成！已退还 {0} 点数。
+proficiency_notification_reset_success_with_cost,重置完成！已退还 {0} 点数。(成本: {1}元)
+proficiency_notification_reset_failed,重置失败。资金不足。
+proficiency_notification_reset_no_points,没有可重置的点数。
+proficiency_notification_not_enough_money,资金不足。需要: {0}元, 拥有: {1}元
+proficiency_stat_card_boost,强化: +{0:F1}%
+proficiency_stat_card_upgrade_count,投资: {0}次
+proficiency_stat_card_required_points,需要: {0}P
+proficiency_stat_card_tooltip_boost,强化数值: +{0:F1}%
+proficiency_stat_card_tooltip_upgrade_count,投资次数: {0}次
+proficiency_stat_card_tooltip_next_cost,下次投资成本: {0}点数
+settings_window_title,GunMaster 设置
+settings_toggle_enabled,启用
+settings_toggle_disabled,禁用
+Option_AutoStatAllocation,自动属性分配
+Option_EnhancementMultiplier,强化倍率
+Option_EnhancementMultiplier_1_0,1.0倍
+Option_EnhancementMultiplier_1_5,1.5倍
+Option_EnhancementMultiplier_2_0,2.0倍
+Option_EnhancementMultiplier_2_5,2.5倍
+Option_EnhancementMultiplier_3_0,3.0倍
+Option_EnhancementMultiplier_5_0,5.0倍
+Option_ExperienceMultiplier,经验值获得倍率
+Option_ExperienceMultiplier_1_0,1.0倍
+Option_ExperienceMultiplier_1_5,1.5倍
+Option_ExperienceMultiplier_2_0,2.0倍
+Option_ExperienceMultiplier_3_0,3.0倍
+Option_ExperienceMultiplier_5_0,5.0倍
+Option_ExperienceMultiplier_10_0,10.0倍
+Option_SaveWithBackup,创建备份
+Option_RestoreFromBackup,加载备份文件
+Option_BackupList,备份文件列表
+Option_BackupRestoreSuccess,从备份恢复成功
+Option_BackupRestoreFailed,从备份恢复失败
+Option_BackupSaveSuccess,备份创建成功
+Option_BackupSaveFailed,备份创建失败
+Option_NoBackupFiles,没有可用的备份文件
+Option_BackupMaintenance,维护

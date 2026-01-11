@@ -1,0 +1,62 @@
+proficiency_button_text,Proficiency
+GunMaster_ModOptionTitle,GunMaster
+proficiency_stat_window_title,Proficiency Stat Distribution
+proficiency_points_label,Points: {0}
+proficiency_manual_mode,Manual Distribution
+proficiency_auto_mode,Auto Enhancement
+proficiency_total_exp,Total EXP: {0}
+proficiency_exp_to_next_level,EXP to Next Level: {0}
+proficiency_no_stats_available,No stats available.
+proficiency_reset_button,Reset
+proficiency_close_button1,Close Window
+proficiency_reset_tooltip_title,Reset
+proficiency_reset_tooltip_description,Reset all enhancement values and amounts.\nAll invested points will be refunded.
+proficiency_reset_tooltip_level,Level: {0}
+proficiency_reset_tooltip_cost_per_point,Cost per Point: {0}
+proficiency_reset_tooltip_invested_points,Invested Points: {0}
+proficiency_reset_tooltip_total_cost,Total Reset Cost: {0}
+proficiency_reset_tooltip_no_points,(No points invested)
+proficiency_reset_button_cost, ({0})
+proficiency_reset_button_not_enough_money, [Insufficient Funds]
+proficiency_notification_item_not_found,Item not found.
+proficiency_notification_auto_mode_cannot_invest,Manual investment is not available in auto distribution mode. Please change to manual distribution mode in options.
+proficiency_notification_stat_upgrade_success,Stat enhancement complete! (Points spent: {0})
+proficiency_notification_stat_upgrade_failed,Stat enhancement failed. Insufficient points.
+proficiency_notification_reset_success,Reset complete! {0} points refunded.
+proficiency_notification_reset_success_with_cost,Reset complete! {0} points refunded. (Cost: {1})
+proficiency_notification_reset_failed,Reset failed. Insufficient funds.
+proficiency_notification_reset_no_points,No points to reset.
+proficiency_notification_not_enough_money,Insufficient funds. Required: {0}, Owned: {1}
+proficiency_stat_card_boost,Boost: +{0:F1}%
+proficiency_stat_card_upgrade_count,Invested: {0}
+proficiency_stat_card_required_points,Required: {0}P
+proficiency_stat_card_tooltip_boost,Enhancement Value: +{0:F1}%
+proficiency_stat_card_tooltip_upgrade_count,Investment Count: {0}
+proficiency_stat_card_tooltip_next_cost,Next Investment Cost: {0} points
+settings_window_title,GunMaster Settings
+settings_toggle_enabled,Enabled
+settings_toggle_disabled,Disabled
+Option_AutoStatAllocation,Auto Stat Allocation
+Option_EnhancementMultiplier,Enhancement Multiplier
+Option_EnhancementMultiplier_1_0,1.0x
+Option_EnhancementMultiplier_1_5,1.5x
+Option_EnhancementMultiplier_2_0,2.0x
+Option_EnhancementMultiplier_2_5,2.5x
+Option_EnhancementMultiplier_3_0,3.0x
+Option_EnhancementMultiplier_5_0,5.0x
+Option_ExperienceMultiplier,Experience Gain Multiplier
+Option_ExperienceMultiplier_1_0,1.0x
+Option_ExperienceMultiplier_1_5,1.5x
+Option_ExperienceMultiplier_2_0,2.0x
+Option_ExperienceMultiplier_3_0,3.0x
+Option_ExperienceMultiplier_5_0,5.0x
+Option_ExperienceMultiplier_10_0,10.0x
+Option_SaveWithBackup,Create Backup
+Option_RestoreFromBackup,Load Backup File
+Option_BackupList,Backup File List
+Option_BackupRestoreSuccess,Restored from backup successfully
+Option_BackupRestoreFailed,Failed to restore from backup
+Option_BackupSaveSuccess,Backup created successfully
+Option_BackupSaveFailed,Failed to create backup
+Option_NoBackupFiles,No backup files available
+Option_BackupMaintenance,Maintenance

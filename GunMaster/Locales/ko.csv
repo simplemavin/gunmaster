@@ -1,0 +1,62 @@
+proficiency_button_text,숙련도
+GunMaster_ModOptionTitle,GunMaster
+proficiency_stat_window_title,숙련도 스탯 분배
+proficiency_points_label,포인트: {0}
+proficiency_manual_mode,수동 분배
+proficiency_auto_mode,자동 강화
+proficiency_total_exp,총 경험치: {0}
+proficiency_exp_to_next_level,다음 레벨까지: {0}
+proficiency_no_stats_available,사용 가능한 스탯이 없습니다.
+proficiency_reset_button,초기화
+proficiency_close_button1,창 닫기
+proficiency_reset_tooltip_title,초기화
+proficiency_reset_tooltip_description,강화 수치와 강화량을 모두 초기화하고\n투자한 포인트가 초기화 됩니다.
+proficiency_reset_tooltip_level,레벨: {0}
+proficiency_reset_tooltip_cost_per_point,포인트당 비용: {0}원
+proficiency_reset_tooltip_invested_points,투자 포인트: {0}
+proficiency_reset_tooltip_total_cost,총 초기화 비용: {0}원
+proficiency_reset_tooltip_no_points,(투자된 포인트 없음)
+proficiency_reset_button_cost," ({0}원)"
+proficiency_reset_button_not_enough_money," [돈 부족]"
+proficiency_notification_item_not_found,아이템을 찾을 수 없습니다.
+proficiency_notification_auto_mode_cannot_invest,자동 분배 모드에서는 수동 투자가 불가능합니다. 옵션에서 수동 분배 모드로 변경해주세요.
+proficiency_notification_stat_upgrade_success,스탯 강화 완료! (소모 포인트: {0})
+proficiency_notification_stat_upgrade_failed,스탯 강화 실패. 포인트가 부족합니다.
+proficiency_notification_reset_success,초기화 완료! {0}포인트가 환원되었습니다.
+proficiency_notification_reset_success_with_cost,초기화 완료! {0}포인트가 환원되었습니다. (비용: {1}원)
+proficiency_notification_reset_failed,초기화 실패. 돈이 부족합니다.
+proficiency_notification_reset_no_points,초기화할 포인트가 없습니다.
+proficiency_notification_not_enough_money,돈이 부족합니다. 필요: {0}원," 보유: {1}원"
+proficiency_stat_card_boost,강화: +{0:F1}%
+proficiency_stat_card_upgrade_count,투자: {0}회
+proficiency_stat_card_required_points,필요: {0}P
+proficiency_stat_card_tooltip_boost,강화 수치: +{0:F1}%
+proficiency_stat_card_tooltip_upgrade_count,투자 횟수: {0}회
+proficiency_stat_card_tooltip_next_cost,다음 투자 비용: {0}포인트
+settings_window_title,GunMaster 설정
+settings_toggle_enabled,활성화
+settings_toggle_disabled,비활성화
+Option_AutoStatAllocation,자동 스탯 분배
+Option_EnhancementMultiplier,강화 배율
+Option_EnhancementMultiplier_1_0,1.0배
+Option_EnhancementMultiplier_1_5,1.5배
+Option_EnhancementMultiplier_2_0,2.0배
+Option_EnhancementMultiplier_2_5,2.5배
+Option_EnhancementMultiplier_3_0,3.0배
+Option_EnhancementMultiplier_5_0,5.0배
+Option_ExperienceMultiplier,경험치 획득량 배율
+Option_ExperienceMultiplier_1_0,1.0배
+Option_ExperienceMultiplier_1_5,1.5배
+Option_ExperienceMultiplier_2_0,2.0배
+Option_ExperienceMultiplier_3_0,3.0배
+Option_ExperienceMultiplier_5_0,5.0배
+Option_ExperienceMultiplier_10_0,10.0배
+Option_SaveWithBackup,백업 생성
+Option_RestoreFromBackup,백업 파일 불러오기
+Option_BackupList,백업 파일 목록
+Option_BackupRestoreSuccess,백업에서 복원 완료
+Option_BackupRestoreFailed,백업 복원 실패
+Option_BackupSaveSuccess,백업 생성 완료
+Option_BackupSaveFailed,백업 생성 실패
+Option_NoBackupFiles,백업 파일이 없습니다
+Option_BackupMaintenance,메인턴스
