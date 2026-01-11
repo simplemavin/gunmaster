@@ -68,65 +68,30 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 - **Experience Gain Multiplier**: Set the multiplier applied to experience gain. (0.1x~3.0x)
 - **Experience Icon Display**: Display the icon of the currently equipped weapon next to the health bar and visually see the experience fill up. (Disabled/Enabled (Right-Left))
 - **Backup File List**: View the list of saved backup files. The most recent backup file is selected by default.
-- **Load Backup File**: Select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained.
-- **Save and Create Backup**: Save current game data and create a backup file. Backup files are automatically created when leaving the base, when the game exits, or when manually clicking the save button.
+- **Backup File Save and Load**: Save current state or select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained.
+- Files exceeding the count are removed, so if you want to keep a backup file, rename the backup file at C:\Users\{username}\AppData\LocalLow\TeamSoda\Duckov\GunMaster\proficiency_data_slot{slotNumber}.dat path (Steam) to proficiency_data_slot{slotNumber}_maintenance.dat and it will not be removed and will always be available in the backup file list.
 
-## 📝 Notes
-
-- All code and images were created with the help of AI
-- If you have any bug reports or balance suggestions, please let us know
 
 ## ⚠️ Warnings
 
 - **Mod Deactivation Warning**: If you deactivate the mod and then reactivate it, the proficiency values assigned to your weapons may be reset.
 - **Unexpected Shutdown Warning**: If an unexpected shutdown occurs, proficiency values may be reset or rolled back.
 - **Data Backup Function Usage**: Since the mod's data is saved based on the latest version, using the data restore function may reset saved leveling.
-- **Data Loss Issue Due to Version Upgrade**: When upgrading from version 1.2.3 to 1.2.4, we decided not to maintain compatibility with existing data. We apologize for any inconvenience. To address initialization issues, all existing data has been reset.
 
 ## 📋 Patch Notes
 
 ### v1.2.8
 - **Experience Icon Display Feature Added**
+- Other balance adjustments
 
 ### v1.2.6
 - **Movement Speed Stat Enhancement Feature Added**
 - **Enhancement Logic Improvements**
 - **Auto Distribution Mode Improvements**
-- **UI Display Improvements**
 
-### v1.2.4
-- Stat enhancement data save/load system improvements
-- Reset bug fixes
-- Restore functionality improvements
-- Files exceeding the count are removed, so if you want to keep a backup file, rename the backup file at C:\Users\{username}\AppData\LocalLow\TeamSoda\Duckov\GunMaster\proficiency_data_slot{slotNumber}.dat path (Steam) to proficiency_data_slot{slotNumber}_maintenance.dat and it will not be removed and will always be available in the backup file list.
-- Maintenance backup files are not created automatically, so please create them if needed!
-- Automatic backup creation when entering base and when game exits
-- Balance adjustment for some stats (Damage, Critical Damage Factor) when using stat points
+## 📝 Notes
 
-### v1.2.2
-- Data save and backup feature added
-  - Settings options accessible only in base
-  - Manual save and backup creation feature
-  - Backup file list viewing and selection feature
-  - Data restore from backup file feature
-  - Automatic backup file management (maintains up to 10 files)
-    - Files exceeding the count are removed, so if you want to keep a backup file, rename the backup file at C:\Users\{username}\AppData\LocalLow\TeamSoda\Duckov\GunMaster\proficiency_data_slot{slotNumber}.dat path (Steam) to proficiency_data_slot{slotNumber}_maintenance.dat and it will not be removed and will always be available in the backup file list.
-    - Maintenance backup files are not created automatically, so please create them if needed!
-  - Automatic backup creation when entering base and when game exits
-
-### v1.2.0
-- Stat point selection feature added
-- Stat enhancement multiplier/Experience gain multiplier adjustment feature added (1.2.1)
-
-### v1.1.0
-
-### ⚖️ Balance Adjustments
-- Experience system improvements: Increased experience requirements for all ranges, gradual increase for levels 50-100, linear increase after level 100
-- Enhancement multiplier system improvements: Gradual increase in enhancement values based on level
-
-### Cloud Save Support
-- In addition to the existing local save system, cloud save is now supported. Data from both storage locations is loaded, and the most recent data is used.
-
-- Melee weapon proficiency system added (Balance suggestions are always welcome.) - 1.1.7
+- All code and images were created with the help of AI
+- If you have any bug reports or balance suggestions, please let us know
 
 **Enjoy the game! 🎮**
