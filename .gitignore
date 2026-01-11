@@ -18,6 +18,7 @@ setup-credentials.bat
 git-credential-helper.ps1
 git-credential-helper.bat
 set-credential.ps1
+README-CREDENTIALS.md
 
 # IDE 설정
 .vscode/
