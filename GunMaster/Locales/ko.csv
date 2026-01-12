@@ -64,3 +64,20 @@ Option_IconDisplayMode,경험치 아이콘 표시
 Option_IconDisplayMode_Disabled,비활성화
 Option_IconDisplayMode_Right,활성화(오른쪽)
 Option_IconDisplayMode_Left,활성화(왼쪽)
+Option_LevelLimitMode,무기 레벨 제한
+Option_LevelLimitMode_Unlimited,제한없음
+Option_LevelLimitMode_50,50레벨
+Option_LevelLimitMode_100,100레벨
+Option_StatWindowHotkey,상태창 열기 단축키
+Key_LeftCtrl,왼쪽 Ctrl
+Key_RightCtrl,오른쪽 Ctrl
+Key_LeftShift,왼쪽 Shift
+Key_RightShift,오른쪽 Shift
+Key_LeftAlt,왼쪽 Alt
+Key_RightAlt,오른쪽 Alt
+Key_Return,Enter
+Key_Backspace,Backspace
+Key_Space,Space
+Key_MouseLeft,마우스 왼쪽 버튼
+Key_MouseRight,마우스 오른쪽 버튼
+Key_MouseMiddle,마우스 가운데 버튼

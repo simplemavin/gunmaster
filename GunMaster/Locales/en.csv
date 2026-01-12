@@ -64,3 +64,20 @@ Option_IconDisplayMode,Experience Icon Display
 Option_IconDisplayMode_Disabled,Disabled
 Option_IconDisplayMode_Right,Enabled (Right)
 Option_IconDisplayMode_Left,Enabled (Left)
+Option_LevelLimitMode,Weapon Level Limit
+Option_LevelLimitMode_Unlimited,Unlimited
+Option_LevelLimitMode_50,Level 50
+Option_LevelLimitMode_100,Level 100
+Option_StatWindowHotkey,Stat Window Hotkey
+Key_LeftCtrl,Left Ctrl
+Key_RightCtrl,Right Ctrl
+Key_LeftShift,Left Shift
+Key_RightShift,Right Shift
+Key_LeftAlt,Left Alt
+Key_RightAlt,Right Alt
+Key_Return,Enter
+Key_Backspace,Backspace
+Key_Space,Space
+Key_MouseLeft,Mouse Left
+Key_MouseRight,Mouse Right
+Key_MouseMiddle,Mouse Middle

@@ -58,7 +58,7 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 - **Enhancement Amount**: Enhancement amount gradually increases with each investment, and a random range is applied to each investment.
   - Generally provides higher enhancement amounts than random enhancement when focusing on a single stat.
 - **Reset Function**: You can reset invested points. Reset cost varies by level and consumes in-game money.
-- **UI Access**: Right-click an item in the inventory to open the menu, then click the "Proficiency" button to open the stat point distribution window.
+- **UI Access**: Right-click an item in the inventory to open the menu, then click the "Proficiency" button, or press the configured hotkey (default: K) while holding a weapon to open the stat point distribution window.
 
 ### 7. Settings Options
 - **Settings Access Location**: You can access settings by opening the settings window in base map (base) or combat map.
@@ -67,6 +67,7 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
   - Applies to both auto enhancement mode and manual distribution mode.
 - **Experience Gain Multiplier**: Set the multiplier applied to experience gain. (0.1x~3.0x)
 - **Experience Icon Display**: Display the icon of the currently equipped weapon next to the health bar and visually see the experience fill up. (Disabled/Enabled (Right-Left))
+- **Stat Window Hotkey Setting**: Set a hotkey to open the stat window. Press the configured key while holding a firearm or melee weapon to open the stat window (default: K)
 - **Backup File List**: View the list of saved backup files. The most recent backup file is selected by default.
 - **Backup File Save and Load**: Save current state or select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained.
 - Files exceeding the count are removed, so if you want to keep a backup file, rename the backup file at C:\Users\{username}\AppData\LocalLow\TeamSoda\Duckov\GunMaster\proficiency_data_slot{slotNumber}.dat path (Steam) to proficiency_data_slot{slotNumber}_maintenance.dat and it will not be removed and will always be available in the backup file list.
@@ -79,6 +80,9 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 - **Data Backup Function Usage**: Since the mod's data is saved based on the latest version, using the data restore function may reset saved leveling.
 
 ## 📋 Patch Notes
+
+### v1.2.9
+- **Stat Window Hotkey Setting Feature Added**
 
 ### v1.2.8
 - **Experience Icon Display Feature Added**
