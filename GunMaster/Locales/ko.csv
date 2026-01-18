@@ -26,7 +26,7 @@ proficiency_notification_reset_success,초기화 완료! {0}포인트가 환원�
 proficiency_notification_reset_success_with_cost,초기화 완료! {0}포인트가 환원되었습니다. (비용: {1}원)
 proficiency_notification_reset_failed,초기화 실패. 돈이 부족합니다.
 proficiency_notification_reset_no_points,초기화할 포인트가 없습니다.
-proficiency_notification_not_enough_money,돈이 부족합니다. 필요: {0}원," 보유: {1}원"
+proficiency_notification_not_enough_money,"돈이 부족합니다. 필요: {0}원, 보유: {1}원"
 proficiency_stat_card_boost,강화: +{0:F1}%
 proficiency_stat_card_upgrade_count,투자: {0}회
 proficiency_stat_card_required_points,필요: {0}P
@@ -81,3 +81,114 @@ Key_Space,Space
 Key_MouseLeft,마우스 왼쪽 버튼
 Key_MouseRight,마우스 오른쪽 버튼
 Key_MouseMiddle,마우스 가운데 버튼
+proficiency_page_prev,이전
+proficiency_page_next,다음
+proficiency_goal_default,목표
+proficiency_goal_total_kills,킬 수
+proficiency_goal_total_headshots,헤드샷 수
+proficiency_goal_total_melee_attacks,근접 공격
+proficiency_goal_total_damage,총 데미지
+proficiency_goal_achieved,달성
+proficiency_goal_not_achieved,미달성
+proficiency_goal_level_100,100레벨 달성
+proficiency_goal_level_101,101레벨 달성
+proficiency_sidebar_total_kills,총 킬 수
+proficiency_sidebar_total_headshots,총 헤드샷
+proficiency_sidebar_total_melee_attacks,근접 공격
+proficiency_sidebar_total_damage,총 데미지
+proficiency_sidebar_weapons_at_100,100레벨 무기
+proficiency_sidebar_max_damage_record,최고 데미지 기록
+proficiency_detail_back,← 뒤로
+proficiency_detail_max_level,최고 레벨: {0}
+proficiency_detail_max_level_alt,최대 레벨: {0}
+proficiency_detail_kills,킬: {0}
+proficiency_detail_damage,데미지: {0}
+proficiency_detail_headshots,헤드샷: {0}
+proficiency_detail_melee_attacks,공격: {0}
+proficiency_stat_boost_40,스탯 강화 40% ({0})
+proficiency_stat_boost_50,스탯 강화 50% ({0})
+proficiency_tooltip_max_level,최고 레벨: {0}
+proficiency_tooltip_exp_bonus,경험치 보너스:
+proficiency_tooltip_exp_bonus_half,• 최대 레벨의 절반까지 적용
+proficiency_tooltip_exp_bonus_max,• 최대 60레벨까지 지원
+proficiency_tooltip_exp_bonus_current,• 현재 보너스 레벨: {0}
+proficiency_notification_goal_achieved_stat,목표 달성: {0} {1}
+proficiency_notification_goal_achieved_level_100,목표 달성: {0} 레벨 100 도달!
+proficiency_notification_goal_achieved_level_101,목표 달성: {0} 레벨 101 도달!
+proficiency_notification_goal_achieved_level,목표 달성: {0} 레벨 {1} 도달!
+proficiency_notification_goal_achieved_level_generic,목표 달성: {0} 레벨 달성!
+proficiency_notification_goal_achieved_total_kills,목표 달성: 총 킬 수 {0} 달성!
+proficiency_notification_goal_achieved_total_headshots,목표 달성: 총 헤드샷 수 {0} 달성!
+proficiency_notification_goal_achieved_total_melee,목표 달성: 총 근접 공격 횟수 {0} 달성!
+proficiency_notification_goal_achieved_total_damage,목표 달성: 총 데미지 {0} 달성!
+proficiency_gauge_all_weapons,전체 무기
+proficiency_gauge_weapon_type,{0} 무기
+proficiency_search_label,검색:
+proficiency_close_window,창 닫기
+proficiency_weapon_stats_title,무기 통계
+proficiency_no_stats_data,통계 데이터 없음
+proficiency_no_items_registered,현재 등록된 아이템이 없습니다.
+proficiency_help_key_close,H 키: 닫기
+proficiency_sidebar_total_stats,전체 통계
+proficiency_milestone_record_title,마일스톤 기록관
+proficiency_goal_name_kill_master_smg,킬 마스터 (기관단총)
+proficiency_goal_desc_kill_master_smg,기관단총으로 총 {0}킬 달성
+proficiency_goal_name_kill_master_ar,킬 마스터 (돌격소총)
+proficiency_goal_desc_kill_master_ar,돌격소총으로 총 {0}킬 달성
+proficiency_goal_name_kill_master_sht,킬 마스터 (샷건)
+proficiency_goal_desc_kill_master_sht,샷건으로 총 {0}킬 달성
+proficiency_goal_name_kill_master_br,킬 마스터 (전투소총)
+proficiency_goal_desc_kill_master_br,전투소총으로 총 {0}킬 달성
+proficiency_goal_name_kill_master_snp,킬 마스터 (스나이퍼)
+proficiency_goal_desc_kill_master_snp,스나이퍼로 총 {0}킬 달성
+proficiency_goal_name_kill_master_mag,킬 마스터 (매그넘)
+proficiency_goal_desc_kill_master_mag,매그넘으로 총 {0}킬 달성
+proficiency_goal_name_kill_master_pst,킬 마스터 (권총)
+proficiency_goal_desc_kill_master_pst,권총으로 총 {0}킬 달성
+proficiency_goal_name_kill_master_arr,킬 마스터 (활)
+proficiency_goal_desc_kill_master_arr,활로 총 {0}킬 달성
+proficiency_goal_name_kill_master_pws,킬 마스터 (소형에너지건)
+proficiency_goal_desc_kill_master_pws,소형에너지건으로 총 {0}킬 달성
+proficiency_goal_name_kill_master_melee,킬 마스터 (근접무기)
+proficiency_goal_desc_kill_master_melee,근접무기로 총 {0}킬 달성
+proficiency_points_label_with_free,잔여 포인트 : {0}({1})
+proficiency_goal_name_headshot_master_snp,헤드샷 마스터 (스나이퍼)
+proficiency_goal_desc_headshot_master_snp,스나이퍼로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_mag,헤드샷 마스터 (매그넘)
+proficiency_goal_desc_headshot_master_mag,매그넘으로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_sht,헤드샷 마스터 (샷건)
+proficiency_goal_desc_headshot_master_sht,샷건으로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_arr,헤드샷 마스터 (활)
+proficiency_goal_desc_headshot_master_arr,활로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_pws,헤드샷 마스터 (소형에너지건)
+proficiency_goal_desc_headshot_master_pws,소형에너지건으로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_pst,헤드샷 마스터 (권총)
+proficiency_goal_desc_headshot_master_pst,권총으로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_ar,헤드샷 마스터 (돌격소총)
+proficiency_goal_desc_headshot_master_ar,돌격소총으로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_smg,헤드샷 마스터 (기관단총)
+proficiency_goal_desc_headshot_master_smg,기관단총으로 총 {0}헤드샷 달성
+proficiency_goal_name_headshot_master_br,헤드샷 마스터 (전투소총)
+proficiency_goal_desc_headshot_master_br,전투소총으로 총 {0}헤드샷 달성
+proficiency_goal_name_melee_attack_master,공격 마스터 (근접무기)
+proficiency_goal_desc_melee_attack_master,근접무기로 총 {0}회 일반 공격 달성
+proficiency_goal_name_damage_master_smg,데미지 마스터 (기관단총)
+proficiency_goal_desc_damage_master_smg,기관단총으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_ar,데미지 마스터 (돌격소총)
+proficiency_goal_desc_damage_master_ar,돌격소총으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_br,데미지 마스터 (전투소총)
+proficiency_goal_desc_damage_master_br,전투소총으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_sht,데미지 마스터 (샷건)
+proficiency_goal_desc_damage_master_sht,샷건으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_mag,데미지 마스터 (매그넘)
+proficiency_goal_desc_damage_master_mag,매그넘으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_pws,데미지 마스터 (소형에너지건)
+proficiency_goal_desc_damage_master_pws,소형에너지건으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_melee,데미지 마스터 (근접무기)
+proficiency_goal_desc_damage_master_melee,근접무기로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_pst,데미지 마스터 (권총)
+proficiency_goal_desc_damage_master_pst,권총으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_arr,데미지 마스터 (활)
+proficiency_goal_desc_damage_master_arr,활로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_snp,데미지 마스터 (스나이퍼)
+proficiency_goal_desc_damage_master_snp,스나이퍼로 총 {0} 데미지 달성

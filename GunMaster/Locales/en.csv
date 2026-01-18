@@ -26,7 +26,7 @@ proficiency_notification_reset_success,Reset complete! {0} points refunded.
 proficiency_notification_reset_success_with_cost,Reset complete! {0} points refunded. (Cost: {1})
 proficiency_notification_reset_failed,Reset failed. Insufficient funds.
 proficiency_notification_reset_no_points,No points to reset.
-proficiency_notification_not_enough_money,Insufficient funds. Required: {0}, Owned: {1}
+proficiency_notification_not_enough_money,"Insufficient funds. Required: {0}, Owned: {1}"
 proficiency_stat_card_boost,Boost: +{0:F1}%
 proficiency_stat_card_upgrade_count,Invested: {0}
 proficiency_stat_card_required_points,Required: {0}P
@@ -81,3 +81,114 @@ Key_Space,Space
 Key_MouseLeft,Mouse Left
 Key_MouseRight,Mouse Right
 Key_MouseMiddle,Mouse Middle
+proficiency_page_prev,Previous
+proficiency_page_next,Next
+proficiency_goal_default,Goal
+proficiency_goal_total_kills,Kills
+proficiency_goal_total_headshots,Headshots
+proficiency_goal_total_melee_attacks,Melee Attacks
+proficiency_goal_total_damage,Total Damage
+proficiency_goal_achieved,Achieved
+proficiency_goal_not_achieved,Not Achieved
+proficiency_goal_level_100,Reach Level 100
+proficiency_goal_level_101,Reach Level 101
+proficiency_sidebar_total_kills,Total Kills
+proficiency_sidebar_total_headshots,Total Headshots
+proficiency_sidebar_total_melee_attacks,Total Melee Attacks
+proficiency_sidebar_total_damage,Total Damage
+proficiency_sidebar_weapons_at_100,Level 100 Weapons
+proficiency_sidebar_max_damage_record,Max Damage Record
+proficiency_detail_back,← Back
+proficiency_detail_max_level,Max Level: {0}
+proficiency_detail_max_level_alt,Maximum Level: {0}
+proficiency_detail_kills,Kills: {0}
+proficiency_detail_damage,Damage: {0}
+proficiency_detail_headshots,Headshots: {0}
+proficiency_detail_melee_attacks,Attacks: {0}
+proficiency_stat_boost_40,Stat Boost 40% ({0})
+proficiency_stat_boost_50,Stat Boost 50% ({0})
+proficiency_tooltip_max_level,Max Level: {0}
+proficiency_tooltip_exp_bonus,EXP Bonus:
+proficiency_tooltip_exp_bonus_half,• Applied up to half of max level
+proficiency_tooltip_exp_bonus_max,• Supports up to level 60
+proficiency_tooltip_exp_bonus_current,• Current bonus level: {0}
+proficiency_notification_goal_achieved_stat,Goal Achieved: {0} {1}
+proficiency_notification_goal_achieved_level_100,Goal Achieved: {0} reached level 100!
+proficiency_notification_goal_achieved_level_101,Goal Achieved: {0} reached level 101!
+proficiency_notification_goal_achieved_level,Goal Achieved: {0} reached level {1}!
+proficiency_notification_goal_achieved_level_generic,Goal Achieved: {0} level reached!
+proficiency_notification_goal_achieved_total_kills,Goal Achieved: Total kills {0} reached!
+proficiency_notification_goal_achieved_total_headshots,Goal Achieved: Total headshots {0} reached!
+proficiency_notification_goal_achieved_total_melee,Goal Achieved: Total melee attacks {0} reached!
+proficiency_notification_goal_achieved_total_damage,Goal Achieved: Total damage {0} reached!
+proficiency_gauge_all_weapons,All Weapons
+proficiency_gauge_weapon_type,{0} Weapons
+proficiency_search_label,Search:
+proficiency_close_window,Close Window
+proficiency_weapon_stats_title,Weapon Stats
+proficiency_no_stats_data,No stats data
+proficiency_no_items_registered,No items registered currently.
+proficiency_help_key_close,"H Key: Close Window"
+proficiency_sidebar_total_stats,Total Stats
+proficiency_milestone_record_title,Milestone Records
+proficiency_goal_name_kill_master_smg,Kill Master (SMG)
+proficiency_goal_desc_kill_master_smg,Achieve {0} total kills with SMG
+proficiency_goal_name_kill_master_ar,Kill Master (Assault Rifle)
+proficiency_goal_desc_kill_master_ar,Achieve {0} total kills with Assault Rifle
+proficiency_goal_name_kill_master_sht,Kill Master (Shotgun)
+proficiency_goal_desc_kill_master_sht,Achieve {0} total kills with Shotgun
+proficiency_goal_name_kill_master_br,Kill Master (Battle Rifle)
+proficiency_goal_desc_kill_master_br,Achieve {0} total kills with Battle Rifle
+proficiency_goal_name_kill_master_snp,Kill Master (Sniper)
+proficiency_goal_desc_kill_master_snp,Achieve {0} total kills with Sniper
+proficiency_goal_name_kill_master_mag,Kill Master (Magnum)
+proficiency_goal_desc_kill_master_mag,Achieve {0} total kills with Magnum
+proficiency_goal_name_kill_master_pst,Kill Master (Pst)
+proficiency_goal_desc_kill_master_pst,Achieve {0} total kills with Pistol
+proficiency_goal_name_kill_master_arr,Kill Master (Bow)
+proficiency_goal_desc_kill_master_arr,Achieve {0} total kills with Bow
+proficiency_goal_name_kill_master_pws,Kill Master (Small Energy Gun)
+proficiency_goal_desc_kill_master_pws,Achieve {0} total kills with Small Energy Gun
+proficiency_goal_name_kill_master_melee,Kill Master (Melee)
+proficiency_goal_desc_kill_master_melee,Achieve {0} total kills with Melee
+proficiency_points_label_with_free,Remaining Points : {0}({1})
+proficiency_goal_name_headshot_master_snp,Headshot Master (Sniper)
+proficiency_goal_desc_headshot_master_snp,Achieve {0} total headshots with Sniper
+proficiency_goal_name_headshot_master_mag,Headshot Master (Magnum)
+proficiency_goal_desc_headshot_master_mag,Achieve {0} total headshots with Magnum
+proficiency_goal_name_headshot_master_sht,Headshot Master (Shotgun)
+proficiency_goal_desc_headshot_master_sht,Achieve {0} total headshots with Shotgun
+proficiency_goal_name_headshot_master_arr,Headshot Master (Bow)
+proficiency_goal_desc_headshot_master_arr,Achieve {0} total headshots with Bow
+proficiency_goal_name_headshot_master_pws,Headshot Master (Small Energy Gun)
+proficiency_goal_desc_headshot_master_pws,Achieve {0} total headshots with Small Energy Gun
+proficiency_goal_name_headshot_master_pst,Headshot Master (Pistol)
+proficiency_goal_desc_headshot_master_pst,Achieve {0} total headshots with Pistol
+proficiency_goal_name_headshot_master_ar,Headshot Master (Assault Rifle)
+proficiency_goal_desc_headshot_master_ar,Achieve {0} total headshots with Assault Rifle
+proficiency_goal_name_headshot_master_smg,Headshot Master (SMG)
+proficiency_goal_desc_headshot_master_smg,Achieve {0} total headshots with SMG
+proficiency_goal_name_headshot_master_br,Headshot Master (Battle Rifle)
+proficiency_goal_desc_headshot_master_br,Achieve {0} total headshots with Battle Rifle
+proficiency_goal_name_melee_attack_master,Attack Master (Melee)
+proficiency_goal_desc_melee_attack_master,Achieve {0} total melee attacks with Melee
+proficiency_goal_name_damage_master_smg,Damage Master (SMG)
+proficiency_goal_desc_damage_master_smg,Achieve {0} total damage with SMG
+proficiency_goal_name_damage_master_ar,Damage Master (Assault Rifle)
+proficiency_goal_desc_damage_master_ar,Achieve {0} total damage with Assault Rifle
+proficiency_goal_name_damage_master_br,Damage Master (Battle Rifle)
+proficiency_goal_desc_damage_master_br,Achieve {0} total damage with Battle Rifle
+proficiency_goal_name_damage_master_sht,Damage Master (Shotgun)
+proficiency_goal_desc_damage_master_sht,Achieve {0} total damage with Shotgun
+proficiency_goal_name_damage_master_mag,Damage Master (Magnum)
+proficiency_goal_desc_damage_master_mag,Achieve {0} total damage with Magnum
+proficiency_goal_name_damage_master_pws,Damage Master (Small Energy Gun)
+proficiency_goal_desc_damage_master_pws,Achieve {0} total damage with Small Energy Gun
+proficiency_goal_name_damage_master_melee,Damage Master (Melee)
+proficiency_goal_desc_damage_master_melee,Achieve {0} total damage with Melee
+proficiency_goal_name_damage_master_pst,Damage Master (Pistol)
+proficiency_goal_desc_damage_master_pst,Achieve {0} total damage with Pistol
+proficiency_goal_name_damage_master_arr,Damage Master (Bow)
+proficiency_goal_desc_damage_master_arr,Achieve {0} total damage with Bow
+proficiency_goal_name_damage_master_snp,Damage Master (Sniper)
+proficiency_goal_desc_damage_master_snp,Achieve {0} total damage with Sniper

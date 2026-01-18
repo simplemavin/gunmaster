@@ -72,6 +72,26 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 - **Backup File Save and Load**: Save current state or select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained.
 - Files exceeding the count are removed, so if you want to keep a backup file, rename the backup file at C:\Users\{username}\AppData\LocalLow\TeamSoda\Duckov\GunMaster\proficiency_data_slot{slotNumber}.dat path (Steam) to proficiency_data_slot{slotNumber}_maintenance.dat and it will not be removed and will always be available in the backup file list.
 
+### 8. Milestone Records
+A UI window to check goal achievement status and milestone statistics for the player-bound proficiency system.
+All records are based on when experience is gained.
+
+#### Opening the Window
+- **Hotkey**: Press H key at the base to open or close the window
+
+#### UI Components
+- **Tab Filtering**: Tabs at the top for each weapon type (All, Pistol, SMG, Assault Rifle, etc.) allow you to filter and view only weapons of the desired type
+- **Search Function**: Search by weapon name to quickly find specific weapons
+- **Weapon Grid**: All registered weapons are displayed as cards, with each card showing the weapon icon and basic information
+- **Left Sidebar**: View overall statistics
+  - Total kills, total headshots, total damage, melee attack count
+  - Number of weapons that reached level 100
+  - Maximum damage records by weapon type
+- **Detail View**: Click on a weapon card to view detailed information and achievement goals for that weapon
+
+#### Goal Achievement Rewards
+- Achieving a goal grants 1 free point
+- Free points can be used for stat enhancement on all weapons, with a maximum of 20 points (19 for melee weapons)
 
 ## ⚠️ Warnings
 
@@ -80,6 +100,14 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 - **Data Backup Function Usage**: Since the mod's data is saved based on the latest version, using the data restore function may reset saved leveling.
 
 ## 📋 Patch Notes
+
+### v1.3.0
+- **Milestone Records and Goal Achievement System**
+  - Gain free points that can be invested when achieving goals (maximum 20 points, 19 for melee weapons)
+- **Milestone Statistics Tracking**
+  - Tracks kill count, headshot count, damage, and melee attack count for each weapon
+  - Records maximum level and stat enhancement values for each weapon
+  - Tracks maximum damage records by weapon type
 
 ### v1.2.9
 - **Stat Window Hotkey Setting Feature Added**

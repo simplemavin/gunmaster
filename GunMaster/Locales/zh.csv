@@ -1,64 +1,64 @@
 proficiency_button_text,熟练度
-GunMaster_ModOptionTitle,GunMaster
-proficiency_stat_window_title,熟练度属性分配
+GunMaster_ModOptionTitle,枪械大师
+proficiency_stat_window_title,属性分配
 proficiency_points_label,点数: {0}
 proficiency_manual_mode,手动分配
-proficiency_auto_mode,自动强化
+proficiency_auto_mode,自动分配
 proficiency_total_exp,总经验值: {0}
-proficiency_exp_to_next_level,距离下一级: {0}
-proficiency_no_stats_available,没有可用属性。
+proficiency_exp_to_next_level,升级所需经验: {0}
+proficiency_no_stats_available, 无可用的属性点
 proficiency_reset_button,重置
 proficiency_close_button1,关闭窗口
 proficiency_reset_tooltip_title,重置
-proficiency_reset_tooltip_description,重置所有强化数值和数量。\n所有已投资点数将被退还。
+proficiency_reset_tooltip_description,重置所有强化属性和点数。\\n所有已分配的属性点将被返还。
 proficiency_reset_tooltip_level,等级: {0}
-proficiency_reset_tooltip_cost_per_point,每点成本: {0}元
-proficiency_reset_tooltip_invested_points,已投资点数: {0}
-proficiency_reset_tooltip_total_cost,总重置成本: {0}元
-proficiency_reset_tooltip_no_points,(未投资点数)
-proficiency_reset_button_cost, ({0}元)
-proficiency_reset_button_not_enough_money, [资金不足]
-proficiency_notification_item_not_found,找不到物品。
-proficiency_notification_auto_mode_cannot_invest,自动分配模式下无法手动投资。请在选项中切换到手动分配模式。
+proficiency_reset_tooltip_cost_per_point,每点消耗: {0}
+proficiency_reset_tooltip_invested_points,已分配属性点: {0}
+proficiency_reset_tooltip_total_cost,总重置消耗: {0}
+proficiency_reset_tooltip_no_points,(未分配点数)
+proficiency_reset_button_cost,({0})
+proficiency_reset_button_not_enough_money,[资金不足]
+proficiency_notification_item_not_found,未找到物品。
+proficiency_notification_auto_mode_cannot_invest, 自动分配模式下无法手动投入。请在选项中切换至手动分配模式。
 proficiency_notification_stat_upgrade_success,属性强化完成！(消耗点数: {0})
 proficiency_notification_stat_upgrade_failed,属性强化失败。点数不足。
-proficiency_notification_reset_success,重置完成！已退还 {0} 点数。
-proficiency_notification_reset_success_with_cost,重置完成！已退还 {0} 点数。(成本: {1}元)
+proficiency_notification_reset_success,重置完成！已返还 {0} 点数。
+proficiency_notification_reset_success_with_cost,重置完成！已返还 {0} 点数。(消耗: {1})
 proficiency_notification_reset_failed,重置失败。资金不足。
 proficiency_notification_reset_no_points,没有可重置的点数。
-proficiency_notification_not_enough_money,资金不足。需要: {0}元, 拥有: {1}元
-proficiency_stat_card_boost,强化: +{0:F1}%
-proficiency_stat_card_upgrade_count,投资: {0}次
+proficiency_notification_not_enough_money,"资金不足。需要: {0}, 拥有: {1}"
+proficiency_stat_card_boost,提升: +{0:F1}%
+proficiency_stat_card_upgrade_count,已分配: {0} 次
 proficiency_stat_card_required_points,需要: {0}P
-proficiency_stat_card_tooltip_boost,强化数值: +{0:F1}%
-proficiency_stat_card_tooltip_upgrade_count,投资次数: {0}次
-proficiency_stat_card_tooltip_next_cost,下次投资成本: {0}点数
-settings_window_title,GunMaster 设置
-settings_toggle_enabled,启用
-settings_toggle_disabled,禁用
+proficiency_stat_card_tooltip_boost,强化属性: +{0:F1}%
+proficiency_stat_card_tooltip_upgrade_count,分配次数: {0}
+proficiency_stat_card_tooltip_next_cost,下次分配消耗: {0} 点数
+settings_window_title,枪械大师设置
+settings_toggle_enabled,已启用
+settings_toggle_disabled,已禁用
 Option_AutoStatAllocation,自动属性分配
 Option_EnhancementMultiplier,强化倍率
-Option_EnhancementMultiplier_1_0,1.0倍
-Option_EnhancementMultiplier_1_5,1.5倍
-Option_EnhancementMultiplier_2_0,2.0倍
-Option_EnhancementMultiplier_2_5,2.5倍
-Option_EnhancementMultiplier_3_0,3.0倍
-Option_EnhancementMultiplier_5_0,5.0倍
-Option_ExperienceMultiplier,经验值获得倍率
-Option_ExperienceMultiplier_1_0,1.0倍
-Option_ExperienceMultiplier_1_5,1.5倍
-Option_ExperienceMultiplier_2_0,2.0倍
-Option_ExperienceMultiplier_3_0,3.0倍
-Option_ExperienceMultiplier_5_0,5.0倍
-Option_ExperienceMultiplier_10_0,10.0倍
+Option_EnhancementMultiplier_1_0,1.0x
+Option_EnhancementMultiplier_1_5,1.5x
+Option_EnhancementMultiplier_2_0,2.0x
+Option_EnhancementMultiplier_2_5,2.5x
+Option_EnhancementMultiplier_3_0,3.0x
+Option_EnhancementMultiplier_5_0,5.0x
+Option_ExperienceMultiplier,经验值获取倍率
+Option_ExperienceMultiplier_1_0,1.0x
+Option_ExperienceMultiplier_1_5,1.5x
+Option_ExperienceMultiplier_2_0,2.0x
+Option_ExperienceMultiplier_3_0,3.0x
+Option_ExperienceMultiplier_5_0,5.0x
+Option_ExperienceMultiplier_10_0,10.0x
 Option_SaveWithBackup,创建备份
 Option_RestoreFromBackup,加载备份文件
 Option_BackupList,备份文件列表
-Option_BackupRestoreSuccess,从备份恢复成功
-Option_BackupRestoreFailed,从备份恢复失败
+Option_BackupRestoreSuccess,恢复备份成功
+Option_BackupRestoreFailed,恢复备份失败
 Option_BackupSaveSuccess,备份创建成功
 Option_BackupSaveFailed,备份创建失败
-Option_NoBackupFiles,没有可用的备份文件
+Option_NoBackupFiles,无可用备份
 Option_BackupMaintenance,维护
 Option_IconDisplayMode,经验值图标显示
 Option_IconDisplayMode_Disabled,禁用
@@ -81,3 +81,114 @@ Key_Space,空格
 Key_MouseLeft,鼠标左键
 Key_MouseRight,鼠标右键
 Key_MouseMiddle,鼠标中键
+proficiency_page_prev,上一页
+proficiency_page_next,下一页
+proficiency_goal_default,目标
+proficiency_goal_total_kills,击杀数
+proficiency_goal_total_headshots,爆头数
+proficiency_goal_total_melee_attacks,近战攻击
+proficiency_goal_total_damage,总伤害
+proficiency_goal_achieved,已达成
+proficiency_goal_not_achieved,未达成
+proficiency_goal_level_100,达到100级
+proficiency_goal_level_101,达到101级
+proficiency_sidebar_total_kills,总击杀数
+proficiency_sidebar_total_headshots,总爆头数
+proficiency_sidebar_total_melee_attacks,总近战攻击
+proficiency_sidebar_total_damage,总伤害
+proficiency_sidebar_weapons_at_100,100级武器
+proficiency_sidebar_max_damage_record,最高伤害记录
+proficiency_detail_back,← 返回
+proficiency_detail_max_level,最高等级: {0}
+proficiency_detail_max_level_alt,最大等级: {0}
+proficiency_detail_kills,击杀: {0}
+proficiency_detail_damage,伤害: {0}
+proficiency_detail_headshots,爆头: {0}
+proficiency_detail_melee_attacks,攻击: {0}
+proficiency_stat_boost_40,属性强化 40% ({0})
+proficiency_stat_boost_50,属性强化 50% ({0})
+proficiency_tooltip_max_level,最高等级: {0}
+proficiency_tooltip_exp_bonus,经验值加成:
+proficiency_tooltip_exp_bonus_half,• 应用到最高等级的一半
+proficiency_tooltip_exp_bonus_max,• 最高支持到60级
+proficiency_tooltip_exp_bonus_current,• 当前加成等级: {0}
+proficiency_notification_goal_achieved_stat,目标达成: {0} {1}
+proficiency_notification_goal_achieved_level_100,目标达成: {0} 达到100级！
+proficiency_notification_goal_achieved_level_101,目标达成: {0} 达到101级！
+proficiency_notification_goal_achieved_level,目标达成: {0} 达到 {1} 级！
+proficiency_notification_goal_achieved_level_generic,目标达成: {0} 等级达成！
+proficiency_notification_goal_achieved_total_kills,目标达成: 总击杀数 {0} 达成！
+proficiency_notification_goal_achieved_total_headshots,目标达成: 总爆头数 {0} 达成！
+proficiency_notification_goal_achieved_total_melee,目标达成: 总近战攻击次数 {0} 达成！
+proficiency_notification_goal_achieved_total_damage,目标达成: 总伤害 {0} 达成！
+proficiency_gauge_all_weapons,所有武器
+proficiency_gauge_weapon_type,{0} 武器
+proficiency_search_label,搜索:
+proficiency_close_window,关闭窗口
+proficiency_weapon_stats_title,武器统计
+proficiency_no_stats_data,无统计数据
+proficiency_no_items_registered,当前没有注册的物品。
+proficiency_help_key_close,"H 键: 关闭窗口"
+proficiency_sidebar_total_stats,全部统计
+proficiency_milestone_record_title,里程碑记录馆
+proficiency_goal_name_kill_master_smg,击杀大师（冲锋枪）
+proficiency_goal_desc_kill_master_smg,使用冲锋枪达成 {0} 总击杀
+proficiency_goal_name_kill_master_ar,击杀大师（突击步枪）
+proficiency_goal_desc_kill_master_ar,使用突击步枪达成 {0} 总击杀
+proficiency_goal_name_kill_master_sht,击杀大师（霰弹枪）
+proficiency_goal_desc_kill_master_sht,使用霰弹枪达成 {0} 总击杀
+proficiency_goal_name_kill_master_br,击杀大师（战斗步枪）
+proficiency_goal_desc_kill_master_br,使用战斗步枪达成 {0} 总击杀
+proficiency_goal_name_kill_master_snp,击杀大师（狙击枪）
+proficiency_goal_desc_kill_master_snp,使用狙击枪达成 {0} 总击杀
+proficiency_goal_name_kill_master_mag,击杀大师（马格南）
+proficiency_goal_desc_kill_master_mag,使用马格南达成 {0} 总击杀
+proficiency_goal_name_kill_master_pst,击杀大师（手枪）
+proficiency_goal_desc_kill_master_pst,使用手枪达成 {0} 总击杀
+proficiency_goal_name_kill_master_arr,击杀大师（弓）
+proficiency_goal_desc_kill_master_arr,使用弓达成 {0} 总击杀
+proficiency_goal_name_kill_master_pws,击杀大师（小型能量枪）
+proficiency_goal_desc_kill_master_pws,使用小型能量枪达成 {0} 总击杀
+proficiency_goal_name_kill_master_melee,击杀大师（近战武器）
+proficiency_goal_desc_kill_master_melee,使用近战武器达成 {0} 总击杀
+proficiency_points_label_with_free,剩余点数 : {0}({1})
+proficiency_goal_name_headshot_master_snp,爆头大师（狙击枪）
+proficiency_goal_desc_headshot_master_snp,使用狙击枪达成 {0} 总爆头
+proficiency_goal_name_headshot_master_mag,爆头大师（马格南）
+proficiency_goal_desc_headshot_master_mag,使用马格南达成 {0} 总爆头
+proficiency_goal_name_headshot_master_sht,爆头大师（霰弹枪）
+proficiency_goal_desc_headshot_master_sht,使用霰弹枪达成 {0} 总爆头
+proficiency_goal_name_headshot_master_arr,爆头大师（弓）
+proficiency_goal_desc_headshot_master_arr,使用弓达成 {0} 总爆头
+proficiency_goal_name_headshot_master_pws,爆头大师（小型能量枪）
+proficiency_goal_desc_headshot_master_pws,使用小型能量枪达成 {0} 总爆头
+proficiency_goal_name_headshot_master_pst,爆头大师（手枪）
+proficiency_goal_desc_headshot_master_pst,使用手枪达成 {0} 总爆头
+proficiency_goal_name_headshot_master_ar,爆头大师（突击步枪）
+proficiency_goal_desc_headshot_master_ar,使用突击步枪达成 {0} 总爆头
+proficiency_goal_name_headshot_master_smg,爆头大师（冲锋枪）
+proficiency_goal_desc_headshot_master_smg,使用冲锋枪达成 {0} 总爆头
+proficiency_goal_name_headshot_master_br,爆头大师（战斗步枪）
+proficiency_goal_desc_headshot_master_br,使用战斗步枪达成 {0} 总爆头
+proficiency_goal_name_melee_attack_master,攻击大师（近战武器）
+proficiency_goal_desc_melee_attack_master,使用近战武器达成总计 {0} 次一般攻击
+proficiency_goal_name_damage_master_smg,伤害大师（冲锋枪）
+proficiency_goal_desc_damage_master_smg,使用冲锋枪达成 {0} 总伤害
+proficiency_goal_name_damage_master_ar,伤害大师（突击步枪）
+proficiency_goal_desc_damage_master_ar,使用突击步枪达成 {0} 总伤害
+proficiency_goal_name_damage_master_br,伤害大师（战斗步枪）
+proficiency_goal_desc_damage_master_br,使用战斗步枪达成 {0} 总伤害
+proficiency_goal_name_damage_master_sht,伤害大师（霰弹枪）
+proficiency_goal_desc_damage_master_sht,使用霰弹枪达成 {0} 总伤害
+proficiency_goal_name_damage_master_mag,伤害大师（马格南）
+proficiency_goal_desc_damage_master_mag,使用马格南达成 {0} 总伤害
+proficiency_goal_name_damage_master_pws,伤害大师（小型能量枪）
+proficiency_goal_desc_damage_master_pws,使用小型能量枪达成 {0} 总伤害
+proficiency_goal_name_damage_master_melee,伤害大师（近战武器）
+proficiency_goal_desc_damage_master_melee,使用近战武器达成 {0} 总伤害
+proficiency_goal_name_damage_master_pst,伤害大师（手枪）
+proficiency_goal_desc_damage_master_pst,使用手枪达成 {0} 总伤害
+proficiency_goal_name_damage_master_arr,伤害大师（弓）
+proficiency_goal_desc_damage_master_arr,使用弓达成 {0} 总伤害
+proficiency_goal_name_damage_master_snp,伤害大师（狙击枪）
+proficiency_goal_desc_damage_master_snp,使用狙击枪达成 {0} 总伤害
