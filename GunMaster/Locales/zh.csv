@@ -69,6 +69,8 @@ Option_LevelLimitMode_Unlimited,无限制
 Option_LevelLimitMode_50,50级
 Option_LevelLimitMode_100,100级
 Option_StatWindowHotkey,状态窗快捷键
+Option_EnableKKeyShortcut,状态窗快捷键启用/停用
+Option_EnableHKeyShortcut,里程碑记录馆快捷键启用/停用
 Key_LeftCtrl,左Ctrl
 Key_RightCtrl,右Ctrl
 Key_LeftShift,左Shift
@@ -128,7 +130,7 @@ proficiency_close_window,关闭窗口
 proficiency_weapon_stats_title,武器统计
 proficiency_no_stats_data,无统计数据
 proficiency_no_items_registered,当前没有注册的物品。
-proficiency_help_key_close,"H 键: 关闭窗口"
+proficiency_help_key_close,"H/F 键: 关闭窗口"
 proficiency_sidebar_total_stats,全部统计
 proficiency_milestone_record_title,里程碑记录馆
 proficiency_goal_name_kill_master_smg,击杀大师（冲锋枪）

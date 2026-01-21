@@ -69,6 +69,8 @@ Option_LevelLimitMode_Unlimited,無限制
 Option_LevelLimitMode_50,50級
 Option_LevelLimitMode_100,100級
 Option_StatWindowHotkey,狀態窗快捷鍵
+Option_EnableKKeyShortcut,狀態窗快捷鍵啟用/停用
+Option_EnableHKeyShortcut,里程碑記錄館快捷鍵啟用/停用
 Key_LeftCtrl,左Ctrl
 Key_RightCtrl,右Ctrl
 Key_LeftShift,左Shift
@@ -128,7 +130,7 @@ proficiency_close_window,關閉視窗
 proficiency_weapon_stats_title,武器統計
 proficiency_no_stats_data,無統計數據
 proficiency_no_items_registered,當前沒有註冊的物品。
-proficiency_help_key_close,"H 鍵: 關閉視窗"
+proficiency_help_key_close,"H/F 鍵: 關閉視窗"
 proficiency_sidebar_total_stats,總統計
 proficiency_milestone_record_title,里程碑記錄館
 proficiency_goal_name_kill_master_smg,擊殺大師（衝鋒槍）

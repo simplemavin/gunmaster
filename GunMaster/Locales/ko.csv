@@ -69,6 +69,8 @@ Option_LevelLimitMode_Unlimited,제한없음
 Option_LevelLimitMode_50,50레벨
 Option_LevelLimitMode_100,100레벨
 Option_StatWindowHotkey,상태창 열기 단축키
+Option_EnableKKeyShortcut,상태창 열기 단축키 활성화 유무
+Option_EnableHKeyShortcut,기록관 단축키 활성화 유무
 Key_LeftCtrl,왼쪽 Ctrl
 Key_RightCtrl,오른쪽 Ctrl
 Key_LeftShift,왼쪽 Shift
@@ -128,7 +130,7 @@ proficiency_close_window,창 닫기
 proficiency_weapon_stats_title,무기 통계
 proficiency_no_stats_data,통계 데이터 없음
 proficiency_no_items_registered,현재 등록된 아이템이 없습니다.
-proficiency_help_key_close,H 키: 닫기
+proficiency_help_key_close,H/F 키: 닫기
 proficiency_sidebar_total_stats,전체 통계
 proficiency_milestone_record_title,마일스톤 기록관
 proficiency_goal_name_kill_master_smg,킬 마스터 (기관단총)

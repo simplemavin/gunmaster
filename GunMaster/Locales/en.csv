@@ -69,6 +69,8 @@ Option_LevelLimitMode_Unlimited,Unlimited
 Option_LevelLimitMode_50,Level 50
 Option_LevelLimitMode_100,Level 100
 Option_StatWindowHotkey,Stat Window Hotkey
+Option_EnableKKeyShortcut,Enable/Disable Stat Window Hotkey
+Option_EnableHKeyShortcut,Enable/Disable Milestone Records Hotkey
 Key_LeftCtrl,Left Ctrl
 Key_RightCtrl,Right Ctrl
 Key_LeftShift,Left Shift
@@ -128,7 +130,7 @@ proficiency_close_window,Close Window
 proficiency_weapon_stats_title,Weapon Stats
 proficiency_no_stats_data,No stats data
 proficiency_no_items_registered,No items registered currently.
-proficiency_help_key_close,"H Key: Close Window"
+proficiency_help_key_close,"H/F Key: Close Window"
 proficiency_sidebar_total_stats,Total Stats
 proficiency_milestone_record_title,Milestone Records
 proficiency_goal_name_kill_master_smg,Kill Master (SMG)

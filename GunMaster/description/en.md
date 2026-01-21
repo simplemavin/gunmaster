@@ -77,7 +77,11 @@ A UI window to check goal achievement status and milestone statistics for the pl
 All records are based on when experience is gained.
 
 #### Opening the Window
-- **Hotkey**: Press H key at the base to open or close the window
+- **Hotkey**: Press H key at the base to open the window (only when shortcut is enabled)
+- **NPC Interaction**: Interact with Jeff (NPC) at the base and select the "Milestone Records" option
+
+#### Closing the Window
+- Press F/H key to close the window
 
 #### UI Components
 - **Tab Filtering**: Tabs at the top for each weapon type (All, Pistol, SMG, Assault Rifle, etc.) allow you to filter and view only weapons of the desired type
