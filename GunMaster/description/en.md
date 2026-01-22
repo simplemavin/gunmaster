@@ -105,6 +105,10 @@ All records are based on when experience is gained.
 
 ## 📋 Patch Notes
 
+### v1.3.2
+- Rocket weapon type added
+- Rocket tab added to Milestone Records
+
 ### v1.3.0
 - **Milestone Records and Goal Achievement System**
   - Gain free points that can be invested when achieving goals (maximum 20 points, 19 for melee weapons)

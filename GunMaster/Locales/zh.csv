@@ -194,3 +194,9 @@ proficiency_goal_name_damage_master_arr,伤害大师（弓）
 proficiency_goal_desc_damage_master_arr,使用弓达成 {0} 总伤害
 proficiency_goal_name_damage_master_snp,伤害大师（狙击枪）
 proficiency_goal_desc_damage_master_snp,使用狙击枪达成 {0} 总伤害
+proficiency_goal_name_damage_master_rocket_150k,伤害大师（火箭）- 第1阶段
+proficiency_goal_desc_damage_master_rocket_150k,使用火箭达成 {0} 总伤害
+proficiency_goal_name_damage_master_rocket_300k,伤害大师（火箭）- 第2阶段
+proficiency_goal_desc_damage_master_rocket_300k,使用火箭达成 {0} 总伤害
+proficiency_goal_name_rocket_attack_master,攻击大师（火箭）
+proficiency_goal_desc_rocket_attack_master,使用火箭达成 {0} 次总攻击

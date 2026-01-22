@@ -89,6 +89,7 @@ proficiency_goal_default,Goal
 proficiency_goal_total_kills,Kills
 proficiency_goal_total_headshots,Headshots
 proficiency_goal_total_melee_attacks,Melee Attacks
+proficiency_goal_total_rocket_attacks,Rocket Attacks
 proficiency_goal_total_damage,Total Damage
 proficiency_goal_achieved,Achieved
 proficiency_goal_not_achieved,Not Achieved
@@ -122,6 +123,7 @@ proficiency_notification_goal_achieved_level_generic,Goal Achieved: {0} level re
 proficiency_notification_goal_achieved_total_kills,Goal Achieved: Total kills {0} reached!
 proficiency_notification_goal_achieved_total_headshots,Goal Achieved: Total headshots {0} reached!
 proficiency_notification_goal_achieved_total_melee,Goal Achieved: Total melee attacks {0} reached!
+proficiency_notification_goal_achieved_total_rocket,Goal Achieved: Total rocket attacks {0} reached!
 proficiency_notification_goal_achieved_total_damage,Goal Achieved: Total damage {0} reached!
 proficiency_gauge_all_weapons,All Weapons
 proficiency_gauge_weapon_type,{0} Weapons
@@ -194,3 +196,9 @@ proficiency_goal_name_damage_master_arr,Damage Master (Bow)
 proficiency_goal_desc_damage_master_arr,Achieve {0} total damage with Bow
 proficiency_goal_name_damage_master_snp,Damage Master (Sniper)
 proficiency_goal_desc_damage_master_snp,Achieve {0} total damage with Sniper
+proficiency_goal_name_damage_master_rocket_150k,Damage Master (Rocket) - Stage 1
+proficiency_goal_desc_damage_master_rocket_150k,Achieve {0} total damage with Rocket
+proficiency_goal_name_damage_master_rocket_300k,Damage Master (Rocket) - Stage 2
+proficiency_goal_desc_damage_master_rocket_300k,Achieve {0} total damage with Rocket
+proficiency_goal_name_rocket_attack_master,Attack Master (Rocket)
+proficiency_goal_desc_rocket_attack_master,Achieve {0} total attacks with Rocket

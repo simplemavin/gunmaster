@@ -89,6 +89,7 @@ proficiency_goal_default,목표
 proficiency_goal_total_kills,킬 수
 proficiency_goal_total_headshots,헤드샷 수
 proficiency_goal_total_melee_attacks,근접 공격
+proficiency_goal_total_rocket_attacks,로켓 공격
 proficiency_goal_total_damage,총 데미지
 proficiency_goal_achieved,달성
 proficiency_goal_not_achieved,미달성
@@ -122,6 +123,7 @@ proficiency_notification_goal_achieved_level_generic,목표 달성: {0} 레벨 �
 proficiency_notification_goal_achieved_total_kills,목표 달성: 총 킬 수 {0} 달성!
 proficiency_notification_goal_achieved_total_headshots,목표 달성: 총 헤드샷 수 {0} 달성!
 proficiency_notification_goal_achieved_total_melee,목표 달성: 총 근접 공격 횟수 {0} 달성!
+proficiency_notification_goal_achieved_total_rocket,목표 달성: 총 로켓 공격 횟수 {0} 달성!
 proficiency_notification_goal_achieved_total_damage,목표 달성: 총 데미지 {0} 달성!
 proficiency_gauge_all_weapons,전체 무기
 proficiency_gauge_weapon_type,{0} 무기
@@ -194,3 +196,9 @@ proficiency_goal_name_damage_master_arr,데미지 마스터 (활)
 proficiency_goal_desc_damage_master_arr,활로 총 {0} 데미지 달성
 proficiency_goal_name_damage_master_snp,데미지 마스터 (스나이퍼)
 proficiency_goal_desc_damage_master_snp,스나이퍼로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_rocket_150k,데미지 마스터 (로켓) - 1단계
+proficiency_goal_desc_damage_master_rocket_150k,로켓으로 총 {0} 데미지 달성
+proficiency_goal_name_damage_master_rocket_300k,데미지 마스터 (로켓) - 2단계
+proficiency_goal_desc_damage_master_rocket_300k,로켓으로 총 {0} 데미지 달성
+proficiency_goal_name_rocket_attack_master,공격 마스터 (로켓)
+proficiency_goal_desc_rocket_attack_master,로켓으로 총 {0}회 공격 달성

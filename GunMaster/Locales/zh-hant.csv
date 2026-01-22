@@ -89,6 +89,7 @@ proficiency_goal_default,目標
 proficiency_goal_total_kills,擊殺數
 proficiency_goal_total_headshots,爆頭數
 proficiency_goal_total_melee_attacks,近戰攻擊
+proficiency_goal_total_rocket_attacks,火箭攻擊
 proficiency_goal_total_damage,總傷害
 proficiency_goal_achieved,已達成
 proficiency_goal_not_achieved,未達成
@@ -122,6 +123,7 @@ proficiency_notification_goal_achieved_level_generic,目標達成: {0} 等級達
 proficiency_notification_goal_achieved_total_kills,目標達成: 總擊殺數 {0} 達成！
 proficiency_notification_goal_achieved_total_headshots,目標達成: 總爆頭數 {0} 達成！
 proficiency_notification_goal_achieved_total_melee,目標達成: 總近戰攻擊次數 {0} 達成！
+proficiency_notification_goal_achieved_total_rocket,目標達成: 總火箭攻擊次數 {0} 達成！
 proficiency_notification_goal_achieved_total_damage,目標達成: 總傷害 {0} 達成！
 proficiency_gauge_all_weapons,所有武器
 proficiency_gauge_weapon_type,{0} 武器
@@ -194,3 +196,9 @@ proficiency_goal_name_damage_master_arr,傷害大師（弓）
 proficiency_goal_desc_damage_master_arr,使用弓達成 {0} 總傷害
 proficiency_goal_name_damage_master_snp,傷害大師（狙擊槍）
 proficiency_goal_desc_damage_master_snp,使用狙擊槍達成 {0} 總傷害
+proficiency_goal_name_damage_master_rocket_150k,傷害大師（火箭）- 第1階段
+proficiency_goal_desc_damage_master_rocket_150k,使用火箭達成 {0} 總傷害
+proficiency_goal_name_damage_master_rocket_300k,傷害大師（火箭）- 第2階段
+proficiency_goal_desc_damage_master_rocket_300k,使用火箭達成 {0} 總傷害
+proficiency_goal_name_rocket_attack_master,攻擊大師（火箭）
+proficiency_goal_desc_rocket_attack_master,使用火箭達成 {0} 次總攻擊
