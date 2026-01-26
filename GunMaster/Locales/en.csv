@@ -3,7 +3,7 @@ GunMaster_ModOptionTitle,GunMaster
 proficiency_stat_window_title,Proficiency Stat Distribution
 proficiency_points_label,Points: {0}
 proficiency_manual_mode,Manual Distribution
-proficiency_auto_mode,Auto Enhancement
+proficiency_auto_mode,Auto Distribution
 proficiency_total_exp,Total EXP: {0}
 proficiency_exp_to_next_level,EXP to Next Level: {0}
 proficiency_no_stats_available,No stats available.

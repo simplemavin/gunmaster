@@ -3,7 +3,7 @@ GunMaster_ModOptionTitle,GunMaster
 proficiency_stat_window_title,숙련도 스탯 분배
 proficiency_points_label,포인트: {0}
 proficiency_manual_mode,수동 분배
-proficiency_auto_mode,자동 강화
+proficiency_auto_mode,자동 분배
 proficiency_total_exp,총 경험치: {0}
 proficiency_exp_to_next_level,다음 레벨까지: {0}
 proficiency_no_stats_available,사용 가능한 스탯이 없습니다.

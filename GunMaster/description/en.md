@@ -92,7 +92,7 @@ The proficiency system also applies to melee weapons. Melee weapons have a diffe
 [*][b]Experience Icon Display[/b]: Display the icon of the currently equipped weapon next to the health bar and visually see the experience fill up. (Disabled/Enabled (Right-Left))
 [*][b]Stat Window Hotkey Setting[/b]: Set a hotkey to open the stat window. Press the configured key while holding a firearm or melee weapon to open the stat window (default: K)
 [*][b]Backup File List[/b]: View the list of saved backup files. The most recent backup file is selected by default.
-[*][b]Backup File Save and Load[/b]: Save current state or select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained.
+[*][b]Backup File Save and Load[/b]: Save current state or select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained (manual creation).
 [*]Files exceeding the count are removed, so if you want to keep a backup file, rename the backup file at C:\Users\{username}\AppData\LocalLow\TeamSoda\Duckov\GunMaster\proficiency_data_slot{slotNumber}.dat path (Steam) to proficiency_data_slot{slotNumber}_maintenance.dat and it will not be removed and will always be available in the backup file list.
 [/list]
 
@@ -141,24 +141,17 @@ All records are based on when experience is gained.
 
 [h2]📋 Patch Notes[/h2]
 
+[h3]v1.3.4[/h3]
+[list]
+[*]Backup file creation method changed: Changed from automatic creation to manual creation
+[*]Improved game freezing issue during scene transitions
+[*]Added per-item stat distribution mode setting option
+[/list]
+
 [h3]v1.3.2[/h3]
 [list]
 [*]Rocket weapon type added
 [*]Rocket tab added to Milestone Records
-[/list]
-
-[h3]v1.3.0[/h3]
-[list]
-[*][b]Milestone Records and Goal Achievement System[/b]
-  [list]
-  [*]Gain free points that can be invested when achieving goals (maximum 20 points, 19 for melee weapons)
-  [/list]
-[*][b]Milestone Statistics Tracking[/b]
-  [list]
-  [*]Tracks kill count, headshot count, damage, and melee attack count for each weapon
-  [*]Records maximum level and stat enhancement values for each weapon
-  [*]Tracks maximum damage records by weapon type
-  [/list]
 [/list]
 
 [h2]📝 Notes[/h2]
