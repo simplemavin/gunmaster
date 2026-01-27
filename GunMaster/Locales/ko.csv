@@ -135,6 +135,51 @@ proficiency_no_items_registered,현재 등록된 아이템이 없습니다.
 proficiency_help_key_close,H/F 키: 닫기
 proficiency_sidebar_total_stats,전체 통계
 proficiency_milestone_record_title,마일스톤 기록관
+experience_inheritance_title,숙련도 전승하기
+experience_inheritance_source_info,50레벨 이상인 무기만 선택할 수 있습니다.
+experience_inheritance_source,경험치 전승 대상
+experience_inheritance_target,전달받을 무기
+experience_inheritance_source_empty,클릭하여 선택
+experience_inheritance_target_empty,클릭하여 선택
+experience_inheritance_preview_title,이전 미리보기
+experience_inheritance_preview_source,소스 무기
+experience_inheritance_preview_target,대상 무기
+experience_inheritance_preview_transfer,이전될 경험치
+experience_inheritance_preview_after,이전 후 예상
+experience_inheritance_preview_warning,⚠ 소스 무기는 경험치와 스탯이 모두 초기화됩니다.
+experience_inheritance_preview_empty,소스와 대상 무기를 모두 선택하면 미리보기가 표시됩니다.
+experience_inheritance_preview_error,오류가 발생했습니다.
+experience_inheritance_transfer,전승하기
+experience_inheritance_reset,선택 초기화
+experience_inheritance_close_button,X (F 키 닫기)
+experience_inheritance_source_info_30,30레벨 이상인 무기만 추출할 수 있습니다.
+experience_inheritance_sort_high,레벨 높은순
+experience_inheritance_sort_low,레벨 낮은순
+experience_inheritance_source_label,숙련도 추출 대상
+experience_inheritance_target_label,숙련도 전승 대상
+experience_inheritance_select_all,무기를 모두 선택해주세요
+experience_inheritance_target_empty_first,먼저 숙련도 추출 대상 무기를 선택하세요
+experience_inheritance_target_empty_select,숙련도 전승 대상 무기를 선택하세요
+experience_inheritance_preview_title_new,전승 미리보기
+experience_inheritance_preview_source_label,추출 대상
+experience_inheritance_preview_target_label,전승 대상
+experience_inheritance_preview_transfer_label,전승될 숙련도
+experience_inheritance_preview_after_label,전승 후 예상
+experience_inheritance_preview_warning_new,⚠ 추출 대상 무기는 숙련도와 스탯이 모두 초기화됩니다.
+experience_inheritance_ratio_same_weapon,90% (같은 무기)
+experience_inheritance_ratio_same_type,75% (같은 종류)
+experience_inheritance_ratio_different,50% (다른 종류)
+experience_inheritance_warning_same_weapon,숙련도가 약간 손실됩니다. 낮은 확률로 온전히 전해집니다.
+experience_inheritance_warning_same_type,숙련도가 일부 손실됩니다. 낮은 확률로 온전히 전해집니다.
+experience_inheritance_warning_different,숙련도가 손실됩니다. 매우 낮은 확률로 온전히 전해집니다.
+experience_inheritance_perfect_transfer,숙련도가 온전히 전해집니다.
+experience_inheritance_great_success,전승 대성공
+experience_inheritance_expected_value,예상 수치
+experience_inheritance_completed,전승 완료
+experience_inheritance_level_label,레벨
+experience_inheritance_reset_status,초기화됨
+experience_inheritance_transferred_xp,전송된 경험치
+experience_inheritance_received_xp,받은 경험치
 proficiency_goal_name_kill_master_smg,킬 마스터 (기관단총)
 proficiency_goal_desc_kill_master_smg,기관단총으로 총 {0}킬 달성
 proficiency_goal_name_kill_master_ar,킬 마스터 (돌격소총)

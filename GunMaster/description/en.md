@@ -1,164 +1,85 @@
-[h1]Gun Master[/h1]
+# Gun Master
 
-⚠️ [b]This mod requires Harmony mod.[/b]
+⚠️ **This mod requires Harmony mod.**
 
 A weapon proficiency system mod. Gain experience by using your weapons and level up to strengthen them!
 
-[h2]🎯 Mod Concept[/h2]
+## 🎯 Mod Concept
 
-[b]Gun Master[/b] is a gameplay mod that provides a proficiency system for all guns. Gain experience by using your weapons, and each time you level up, a random weapon stat increases. The more you use your weapons, the stronger they become!
+**Gun Master** is a gameplay mod that provides a proficiency system for all guns. Gain experience by using your weapons, and each time you level up, a random weapon stat increases. The more you use your weapons, the stronger they become!
 
-[h2]✨ Key Features[/h2]
+## ✨ Key Features
 
-[h3]1. Weapon Support[/h3]
+### 1. Weapon Support
 
 The proficiency system applies to the following weapon types:
-[list]
-[*]Pistols, Submachine Guns, Assault Rifles, Battle Rifles
-[*]Sniper Rifles, Shotguns, Magnums, Energy Guns, Bows, Rocket
-[/list]
+- Pistols, Submachine Guns, Assault Rifles, Battle Rifles
+- Sniper Rifles, Shotguns, Magnums, Energy Guns, Bows, Rocket
 
-[h3]2. Experience Gain Methods[/h3]
+### 2. Experience Gain Methods
 
-You can gain experience in the following ways by using your weapons:
-Experience gained varies by weapon type.
+- Gain experience through headshot hits, enemy kills, and headshot kill bonuses
+- Experience gained varies by weapon type
 
-[h3]Headshot Hits[/h3]
-[list]
-[*]Hitting an enemy's head immediately grants experience
-[/list]
+### 3. Proficiency Level-Up System
 
-[h3]Enemy Kills[/h3]
-[list]
-[*]Killing an enemy grants experience
-[/list]
+- Gain experience to level up, and each time you level up, one of the weapon's stats randomly increases
+- Firearms: One of 15 stats increases (supports up to level 100, with leveling beyond 100 also possible)
+- The experience required for the next level increases as your level gets higher
 
-[h3]Headshot Kill Bonus[/h3]
-[list]
-[*]Killing an enemy with a headshot grants additional bonus experience
-[/list]
+### 4. Melee Weapon Proficiency System
 
-[h3]3. Proficiency Level-Up System[/h3]
+- Gain experience through normal attacks and enemy kills
+- Each time you level up, one of the 7 melee weapon-exclusive stats randomly increases
 
-[list]
-[*][b]Level Up[/b]: Gain experience to increase your level
-[*][b]Stat Boost[/b]: Each time you level up, one of the weapon's stats randomly increases (Very low chance to enhance multiple stats.)
-[*][b]Level Range[/b]: Generally supports levels up to 100, with leveling beyond 100 also possible
-[*][b]Experience Requirements[/b]: The experience required for the next level increases as your level gets higher, and significantly increases after level 100
-[/list]
+### 5. Stat Point Mode
+- Gain points from leveling up and directly invest them into desired stats
+- Point Acquisition: 1 point per level up, plus 2 additional points every 10 levels
+- Investment Cost: First investment costs 1 point, each subsequent investment in the same stat costs 1 more point
+- Reset: You can reset invested points (consumes in-game money)
+- UI Access: Right-click inventory → "Proficiency" or hotkey (default: K)
 
-[h3]4. Stat Boost System[/h3]
+### 6. Settings Options
+- Switch between auto/manual distribution mode
+- Enhancement multiplier setting (0.1x~3x)
+- Experience gain multiplier setting (0.1x~3x)
+- Experience icon display (Disabled/Enabled)
+- Stat window hotkey setting (default: K)
+- Backup file save and load (up to 10 files, manual creation)
 
-Each time you level up, one of the 15 stats displayed on the weapon randomly increases.
+### 7. Milestone Records
+- A UI window to check goal achievement status and milestone statistics
+- **Opening the Window**:
+  - Press H key at the base to open (only when shortcut is enabled)
+  - Interact with Jeff (NPC) at the base and select the "Milestone Records" option
+- Tab filtering, search function, weapon grid, statistics sidebar provided
+- Achieving a goal grants 1 free point (maximum 20 points, 19 for melee weapons)
 
-[h3]5. Melee Weapon Proficiency System[/h3]
+### 8. Experience Inheritance System
+- Extract proficiency from high-level weapons and transfer it to other weapons
+- **Extraction Requirement**: Only weapons level 30 or above can be extracted
+- Some proficiency will be lost during extraction, with a low chance of perfect transfer
+- **Warnings**:
+  - The extraction source weapon's level will be reset
+  - The extraction source weapon's proficiency and stats will all be reset
+- **Opening the Window**:
+  - Interact with Jeff (NPC) at the base and select the "Experience Inheritance" option
 
-The proficiency system also applies to melee weapons. Melee weapons have a different experience gain method compared to firearms:
+## ⚠️ Warnings
 
-[h4]Experience Gain Methods[/h4]
-[list]
-[*][b]Normal Attacks[/b]
-[*][b]Enemy Kills[/b]
-[/list]
+- **Mod Deactivation Warning**: If you deactivate the mod and then reactivate it, the proficiency values assigned to your weapons may be reset.
+- **Unexpected Shutdown Warning**: If an unexpected shutdown occurs, proficiency values may be reset or rolled back.
+- **Data Backup Function Usage**: Since the mod's data is saved based on the latest version, using the data restore function may reset saved leveling.
 
-[h4]Stat Boost[/h4]
-[list]
-[*]Each time you level up, one of the 7 melee weapon-exclusive stats randomly increases.
-[/list]
+## 📋 Patch Notes
 
-[h3]6. Stat Point Mode[/h3]
-[list]
-[*]An option to directly invest points gained from leveling up into desired stats.
-[*][b]Point Acquisition Rules[/b]: Gain 1 point per level up, plus 2 additional points every 10 levels (10, 20, 30...)
-[*][b]Mode Switching[/b]: You can switch between auto enhancement mode and manual distribution mode at any time in the settings window.
-[*][b]Investment Cost[/b]: The first investment costs 1 point, and each subsequent investment in the same stat requires 1 more point (1, 2, 3, 4...).
-[*][b]Enhancement Amount[/b]: Enhancement amount gradually increases with each investment, and a random range is applied to each investment.
-  [list]
-  [*]Generally provides higher enhancement amounts than random enhancement when focusing on a single stat.
-  [/list]
-[*][b]Reset Function[/b]: You can reset invested points. Reset cost varies by level and consumes in-game money.
-[*][b]UI Access[/b]: Right-click an item in the inventory to open the menu, then click the "Proficiency" button, or press the configured hotkey (default: K) while holding a weapon to open the stat point distribution window.
-[/list]
+### v1.4.0
+- Experience Inheritance System added
 
-[h3]7. Settings Options[/h3]
-[list]
-[*][b]Settings Access Location[/b]: You can access settings by opening the settings window in base map (base) or combat map.
-[*][b]Auto Distribution Mode Enable/Disable[/b]: Switch between auto enhancement mode and manual distribution mode.
-[*][b]Enhancement Multiplier[/b]: Set the multiplier applied to stat enhancements. (0.1x~3.0x)
-  [list]
-  [*]Applies to both auto enhancement mode and manual distribution mode.
-  [/list]
-[*][b]Experience Gain Multiplier[/b]: Set the multiplier applied to experience gain. (0.1x~3.0x)
-[*][b]Experience Icon Display[/b]: Display the icon of the currently equipped weapon next to the health bar and visually see the experience fill up. (Disabled/Enabled (Right-Left))
-[*][b]Stat Window Hotkey Setting[/b]: Set a hotkey to open the stat window. Press the configured key while holding a firearm or melee weapon to open the stat window (default: K)
-[*][b]Backup File List[/b]: View the list of saved backup files. The most recent backup file is selected by default.
-[*][b]Backup File Save and Load[/b]: Save current state or select one of the saved backup files to restore data. Backup files are saved with timestamped filenames and up to 10 files are maintained (manual creation).
-[*]Files exceeding the count are removed, so if you want to keep a backup file, rename the backup file at C:\Users\{username}\AppData\LocalLow\TeamSoda\Duckov\GunMaster\proficiency_data_slot{slotNumber}.dat path (Steam) to proficiency_data_slot{slotNumber}_maintenance.dat and it will not be removed and will always be available in the backup file list.
-[/list]
+## 📝 Notes
 
-[h3]8. Milestone Records[/h3]
-A UI window to check goal achievement status and milestone statistics for the player-bound proficiency system.
-All records are based on when experience is gained.
+- All code and images were created with the help of AI
+- Some icons were taken from [https://icons8.com](https://icons8.com)
+- If you have any bug reports or balance suggestions, please let us know
 
-[h4]Opening the Window[/h4]
-[list]
-[*][b]Hotkey[/b]: Press H key at the base to open the window (only when shortcut is enabled)
-[*][b]NPC Interaction[/b]: Interact with Jeff (NPC) at the base and select the "Milestone Records" option
-[/list]
-
-[h4]Closing the Window[/h4]
-[list]
-[*]Press F/H key to close the window
-[/list]
-
-[h4]UI Components[/h4]
-[list]
-[*][b]Tab Filtering[/b]: Tabs at the top for each weapon type (All, Pistol, SMG, Assault Rifle, etc.) allow you to filter and view only weapons of the desired type
-[*][b]Search Function[/b]: Search by weapon name to quickly find specific weapons
-[*][b]Weapon Grid[/b]: All registered weapons are displayed as cards, with each card showing the weapon icon and basic information
-[*][b]Left Sidebar[/b]: View overall statistics
-  [list]
-  [*]Total kills, total headshots, total damage, melee attack count
-  [*]Number of weapons that reached level 100
-  [*]Maximum damage records by weapon type
-  [/list]
-[*][b]Detail View[/b]: Click on a weapon card to view detailed information and achievement goals for that weapon
-[/list]
-
-[h4]Goal Achievement Rewards[/h4]
-[list]
-[*]Achieving a goal grants 1 free point
-[*]Free points can be used for stat enhancement on all weapons, with a maximum of 20 points (19 for melee weapons)
-[/list]
-
-[h2]⚠️ Warnings[/h2]
-
-[list]
-[*][b]Mod Deactivation Warning[/b]: If you deactivate the mod and then reactivate it, the proficiency values assigned to your weapons may be reset.
-[*][b]Unexpected Shutdown Warning[/b]: If an unexpected shutdown occurs, proficiency values may be reset or rolled back.
-[*][b]Data Backup Function Usage[/b]: Since the mod's data is saved based on the latest version, using the data restore function may reset saved leveling.
-[/list]
-
-[h2]📋 Patch Notes[/h2]
-
-[h3]v1.3.4[/h3]
-[list]
-[*]Backup file creation method changed: Changed from automatic creation to manual creation
-[*]Improved game freezing issue during scene transitions
-[*]Added per-item stat distribution mode setting option
-[/list]
-
-[h3]v1.3.2[/h3]
-[list]
-[*]Rocket weapon type added
-[*]Rocket tab added to Milestone Records
-[/list]
-
-[h2]📝 Notes[/h2]
-
-[list]
-[*]All code and images were created with the help of AI
-[*]If you have any bug reports or balance suggestions, please let us know
-[/list]
-
-[b]Enjoy the game! 🎮[/b]
+**Enjoy the game! 🎮**
