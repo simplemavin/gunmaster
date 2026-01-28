@@ -180,6 +180,8 @@ experience_inheritance_level_label,레벨
 experience_inheritance_reset_status,초기화됨
 experience_inheritance_transferred_xp,전송된 경험치
 experience_inheritance_received_xp,받은 경험치
+experience_inheritance_filter_inventory_only,인벤토리만 조회
+experience_inheritance_filter_all,전체 조회
 proficiency_goal_name_kill_master_smg,킬 마스터 (기관단총)
 proficiency_goal_desc_kill_master_smg,기관단총으로 총 {0}킬 달성
 proficiency_goal_name_kill_master_ar,킬 마스터 (돌격소총)

@@ -178,6 +178,8 @@ experience_inheritance_level_label,等级
 experience_inheritance_reset_status,已重置
 experience_inheritance_transferred_xp,已传输经验值
 experience_inheritance_received_xp,已接收经验值
+experience_inheritance_filter_inventory_only,仅背包
+experience_inheritance_filter_all,全部物品
 proficiency_goal_name_kill_master_smg,击杀大师（冲锋枪）
 proficiency_goal_desc_kill_master_smg,使用冲锋枪达成 {0} 总击杀
 proficiency_goal_name_kill_master_ar,击杀大师（突击步枪）

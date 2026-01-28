@@ -180,6 +180,8 @@ experience_inheritance_level_label,Level
 experience_inheritance_reset_status,Reset
 experience_inheritance_transferred_xp,Transferred XP
 experience_inheritance_received_xp,Received XP
+experience_inheritance_filter_inventory_only,Inventory Only
+experience_inheritance_filter_all,All Items
 proficiency_goal_name_kill_master_smg,Kill Master (SMG)
 proficiency_goal_desc_kill_master_smg,Achieve {0} total kills with SMG
 proficiency_goal_name_kill_master_ar,Kill Master (Assault Rifle)

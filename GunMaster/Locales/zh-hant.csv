@@ -180,6 +180,8 @@ experience_inheritance_level_label,等級
 experience_inheritance_reset_status,已重置
 experience_inheritance_transferred_xp,已傳輸經驗值
 experience_inheritance_received_xp,已接收經驗值
+experience_inheritance_filter_inventory_only,僅背包
+experience_inheritance_filter_all,全部物品
 proficiency_goal_name_kill_master_smg,擊殺大師（衝鋒槍）
 proficiency_goal_desc_kill_master_smg,使用衝鋒槍達成 {0} 總擊殺
 proficiency_goal_name_kill_master_ar,擊殺大師（突擊步槍）
