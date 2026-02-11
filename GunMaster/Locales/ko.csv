@@ -37,6 +37,7 @@ settings_window_title,GunMaster 설정
 settings_toggle_enabled,활성화
 settings_toggle_disabled,비활성화
 Option_AutoStatAllocation,자동 스탯 분배
+Option_OnePointPerInvestment,투자 비용 1포인트 고정
 Option_EnhancementMultiplier,강화 배율
 Option_EnhancementMultiplier_1_0,1.0배
 Option_EnhancementMultiplier_1_5,1.5배

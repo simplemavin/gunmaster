@@ -37,6 +37,7 @@ settings_window_title,枪械大师设置
 settings_toggle_enabled,已启用
 settings_toggle_disabled,已禁用
 Option_AutoStatAllocation,自动属性分配
+Option_OnePointPerInvestment,每次投资消耗1点
 Option_EnhancementMultiplier,强化倍率
 Option_EnhancementMultiplier_1_0,1.0x
 Option_EnhancementMultiplier_1_5,1.5x

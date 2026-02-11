@@ -37,6 +37,7 @@ settings_window_title,槍械大師設定
 settings_toggle_enabled,已啟用
 settings_toggle_disabled,已停用
 Option_AutoStatAllocation,自動屬性分配
+Option_OnePointPerInvestment,每次投資消耗1點
 Option_EnhancementMultiplier,強化倍率
 Option_EnhancementMultiplier_1_0,1.0x
 Option_EnhancementMultiplier_1_5,1.5x

@@ -46,6 +46,7 @@ The proficiency system applies to the following weapon types:
 - Experience icon display (Disabled/Enabled)
 - Stat window hotkey setting (default: K)
 - Backup file save and load (up to 10 files, manual creation)
+- Additional options: weapon level limit, 1-point investment mode, K/H shortcut toggles
 
 ### 7. Milestone Records
 - A UI window to check goal achievement status and milestone statistics

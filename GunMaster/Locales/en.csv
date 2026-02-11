@@ -37,6 +37,7 @@ settings_window_title,GunMaster Settings
 settings_toggle_enabled,Enabled
 settings_toggle_disabled,Disabled
 Option_AutoStatAllocation,Auto Stat Allocation
+Option_OnePointPerInvestment,1 Point Per Investment
 Option_EnhancementMultiplier,Enhancement Multiplier
 Option_EnhancementMultiplier_1_0,1.0x
 Option_EnhancementMultiplier_1_5,1.5x
